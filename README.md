@@ -1,6 +1,6 @@
 ## Boiler-Plate
 
-[]Login
-[]Logout
-[]Register
-[]Auth
+- [x]Login
+- [x]Logout
+- [x]Register
+- []Auth
