@@ -3,4 +3,4 @@
 - [x] Login
 - [x] Logout
 - [x] Register
-- [] Auth
+- [ ] Auth
